@@ -1,0 +1,5 @@
+"MinValue" "MaxValue" "RecodedValue" "RecodedMeaning"
+NA 55 1 "Less than 55"
+55 60 2 "55-60"
+60 70 3 "60-70"
+70 NA 4 "More than 70"
