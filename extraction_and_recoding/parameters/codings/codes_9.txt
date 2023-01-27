@@ -1,0 +1,3 @@
+"OriginalValue" "OriginalMeaning" "RecodedValue" "RecodedMeaning"
+"0" "Female" "0" "Female"
+"1" "Male" "1" "Male"

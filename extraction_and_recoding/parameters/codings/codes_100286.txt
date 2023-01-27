@@ -1,0 +1,8 @@
+"OriginalValue" "OriginalMeaning" "RecodedValue" "RecodedMeaning"
+"-3" "Prefer not to answer" "-3" "Prefer not to answer"
+"-7" "None of the above" "-7" "None of the above"
+"1" "A house or bungalow" "1" "A house or bungalow"
+"2" "A flat, maisonette or apartment" "2" "A flat, maisonette or apartment"
+"3" "Mobile or temporary structure (i.e. caravan)" "3" "Mobile or temporary structure (i.e. caravan)"
+"4" "Sheltered accommodation" "4" "Sheltered accommodation"
+"5" "Care home" "5" "Care home"
