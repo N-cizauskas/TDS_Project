@@ -2,13 +2,13 @@
 #PBS -l select=1:ncpus=1:mem=50gb
 #PBS -N definition
 
-cd /rds/general/project/hda-22-23/live/TDS/rs3622/outcome_definition/Scripts
+cd /rds/general/project/hda-22-23/live/TDS/Group8_Working/outcome_definition/Scripts
 
 module load anaconda3/personal
 source activate r413
 
 
-def_path=/rds/general/project/hda-22-23/live/TDS/rs3622/outcome_definition/Definitions/alzheimers/
+def_path=/rds/general/project/hda-22-23/live/TDS/Group8_Working/outcome_definition/Definitions/hormone_cancers/
 
 app_data_path=/rds/general/project/hda-22-23/live/TDS/General/Data/ukb669759.csv
 
