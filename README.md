@@ -1,12 +1,14 @@
-# Exploring Risk Factors of Hormone-sensitive Cancers Using Exposures Present in UK Biobank
+# Exploring Risk Factors of Hormone-sensitive Cancers Using Non-Genetic Exposures Present in UK Biobank
 By Group 8, for Translational Data Science as part of MSc Health Data Analytics and Machine Learning
 
 ## File Structure
 
 ```bash
+├── data_extraction <-- DAN
 ├── data_cleaning
-│   ├── file11.ext
-│   └── file12.ext
+│   ├── row_NA_removal
+│   └── case_count_checking
+│   └── ADD IMPUTATION ETC <-- SREE
 ├── models
 │   ├── penalized_regression
 │   ├── decision_tree
