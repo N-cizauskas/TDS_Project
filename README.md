@@ -1,12 +1,13 @@
 # Exploring Risk Factors of Hormone-sensitive Cancers Using Non-Genetic Exposures Present in UK Biobank
 By Group 8, for Translational Data Science as part of MSc Health Data Analytics and Machine Learning
 
+This repository contains the code supporting the submitted report for Translational Data Science for 2022/2023.
+
 ## File Structure
 
 ```bash
 ├── data_cleaning
-│   ├── row_NA_removal
-│   └── case_count_checking
+│   ├── 22 ordered data cleaning files
 ├── models
 │   ├── univariate_analysis
 │   ├── penalized_regression
