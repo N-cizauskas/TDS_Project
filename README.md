@@ -33,9 +33,9 @@ By Group 8, for Translational Data Science as part of MSc Health Data Analytics 
 │   ├── male prostate cancer stratified analysis
 │   ├── male breast cancer stratified analysis
 ├── sensitivity_analysis
-│   ├── file21.ext
-│   ├── file22.ext
-│   └── file23.ext
+│   ├── cancer casetype for stacked ensemble
+│   ├── cancer subtype for stacked ensemble
+│   └── penalized_regression
 └── README.md
 ```
 
