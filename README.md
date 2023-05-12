@@ -7,7 +7,7 @@ This repository contains the code supporting the submitted report for Translatio
 
 ```bash
 ├── data_cleaning
-│   ├── 22 ordered data cleaning files
+│   └── 22 ordered data cleaning files
 ├── models
 │   ├── univariate_analysis
 │   ├── penalized_regression
