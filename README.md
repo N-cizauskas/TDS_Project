@@ -2,7 +2,8 @@
 By Group 8, for Translational Data Science as part of MSc Health Data Analytics and Machine Learning
 
 ## File Structure
-'''bash
+
+```bash
 ├── data_cleaning
 │   ├── file11.ext
 │   └── file12.ext
@@ -20,4 +21,4 @@ By Group 8, for Translational Data Science as part of MSc Health Data Analytics 
 │   ├── file22.ext
 │   └── file23.ext
 └── README.md
-'''
+```
