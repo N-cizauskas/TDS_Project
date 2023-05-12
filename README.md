@@ -4,12 +4,11 @@ By Group 8, for Translational Data Science as part of MSc Health Data Analytics 
 ## File Structure
 
 ```bash
-├── data_extraction <-- DAN
 ├── data_cleaning
 │   ├── row_NA_removal
 │   └── case_count_checking
-│   └── ADD IMPUTATION ETC <-- SREE
 ├── models
+│   ├── univariate_analysis
 │   ├── penalized_regression
 │   ├── decision_tree
 │   ├── XGBoost
