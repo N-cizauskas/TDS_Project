@@ -15,12 +15,27 @@ By Group 8, for Translational Data Science as part of MSc Health Data Analytics 
 │   ├── XGBoost
 │   └── stacked_ensemble
 ├── plots
-│   ├── file21.ext
-│   ├── file22.ext
-│   └── file23.ext
+│   ├── data_flow
+│   ├── female_shapvalues from stacked ensemble
+│   ├── male_shapvalues from stacked ensemble
+│   ├── stacked ensemble permutation importance
+│   ├── prevalent v incident stratified analysis
+│   ├── female incident stratified analysis
+│   ├── female prevalent stratified analysis
+│   ├── male incident stratified analysis
+│   ├── male prevalent stratified analysis
+│   ├── cancer subtype stratified analysis
+│   ├── female thyroid cancer stratified analysis
+│   ├── female breast cancer stratified analysis
+│   ├── female uterine cancer stratified analysis
+│   ├── female ovarian cancer stratified analysis
+│   ├── male thyroid cancer stratified analysis
+│   ├── male prostate cancer stratified analysis
+│   ├── male breast cancer stratified analysis
 ├── sensitivity_analysis
 │   ├── file21.ext
 │   ├── file22.ext
 │   └── file23.ext
 └── README.md
 ```
+
